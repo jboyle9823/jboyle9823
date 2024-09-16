@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">Year 2 Computer Science student at Bishop's University with a continuous objective for personal growth through diligence and hard work, with ambition and creativity.</h3>
 
-- 🌱 I’m currently learning **Haskell, Prolog and AI Development**
+- 🌱 I’m currently learning **Haskell, Prolog and Python AI Development**
 
 - 📫 How to reach me **jboyle9823@gmail.com**
 
