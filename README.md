@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">Year 2 Computer Science student at Bishop's with a continuous objective for personal growth through diligence and hard work, with ambition and creativity.</h3>
+<h3 align="center">Penultimate-year Computer Science student at Bishop's with a continuous objective for personal growth through diligence and hard work, with ambition and creativity.</h3>
 
 - 🌱 I’m currently learning **Web Mining and Cybersecurity**
 
